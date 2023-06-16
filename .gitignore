@@ -1,0 +1,17 @@
+*.dylib
+encrypter
+test_app
+
+!test_app/
+!encrypter/
+
+*.id0
+*.id1
+*.nam
+*.til
+
+ignore.*
+
+.vscode
+
+.DS_Store
